@@ -7,4 +7,4 @@ Projeto copiar a tela inicial do instagram
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<img src="">
+<img src="./img/clone_instagram.png">
