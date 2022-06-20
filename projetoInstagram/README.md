@@ -1,6 +1,6 @@
 # Clone da página inicial do instagram 🙃
 
-Projeto copiar a tela inicial do instagram 
+Projeto copiar a tela inicial do instagram
 
 ### Os requisitos são:
 
